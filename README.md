@@ -2,6 +2,7 @@
 
 A Particle project named Task2-1
 
+
 ## Welcome to your project!
 
 Every new Particle project is composed of 3 important elements that you'll see have been created in your project directory for Task2-1.
